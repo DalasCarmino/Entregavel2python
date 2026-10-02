@@ -1,0 +1,3 @@
+while condicao_logica:
+# Código que vai ser repetido (obrigatoriamente indentado)
+# IMPORTANTE: Mudar algo aqui dentro para a condição se tornar falsa!

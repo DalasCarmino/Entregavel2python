@@ -1,0 +1,2 @@
+for variavel_item in sequencia:
+# Código que vai ser repetido(obrigatoriamente indentado)

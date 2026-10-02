@@ -1,0 +1,3 @@
+cores = ["azul", "verde", "vermelho"]
+for cor in cores:
+    print(cor) # Imprime cada cor diretamente, sem precisar de contadores
